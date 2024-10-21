@@ -1,11 +1,11 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Ruan Müller! 👋
 
 🎓 **Desenvolvedor de Software** com experiência em **C# .NET** e **Delphi**, apaixonado por criar soluções que otimizem o dia a dia e resolvam problemas complexos de forma eficiente.
 
 ---
 
 ## 🚀 Sobre Mim
-- 🔍 Atualmente, trabalho desenvolvendo aplicações desktop e web usando **C# .NET** e **Delphi**.
+- 🔍 Atualmente, trabalho desenvolvendo aplicações desktop usando **C# .NET** e **Delphi**.
 - 📚 Sempre estou aprendendo novas tecnologias e me aprimorando no desenvolvimento.
 - 🛠️ Tenho experiência com integração de sistemas, desenvolvimento de APIs e automação de processos.
 
@@ -23,15 +23,15 @@
 ## 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MullerRuan&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MullerRuan&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 ## 📫 Como me Encontrar
 - **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- **E-mail**: seuemail@dominio.com
+- **E-mail**: ruandagostini17@gmail.com
 
 ---
 
