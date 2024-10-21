@@ -8,9 +8,6 @@
 - 🔍 Atualmente, trabalho desenvolvendo aplicações desktop usando **C# .NET** e **Delphi**.
 - 📚 Sempre estou aprendendo novas tecnologias e me aprimorando no desenvolvimento.
 - 🛠️ Tenho experiência com integração de sistemas, desenvolvimento de APIs e automação de processos.
-- 📊 Últimas Atividades no GitHub
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MullerRuan&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 🛠️ Tecnologias e Ferramentas
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
