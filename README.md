@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Como me Encontrar
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/MullerRuan/)
+- **LinkedIn**: [https://www.linkedin.com/in/MullerRuan/]
 - **E-mail**: ruandagostini17@gmail.com
 
 ---
@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/delphi-10.svg" alt="Delphi" width="40" height="40"/>
+  <img src="https://www.embarcadero.com/images/logo-delphi-icon.svg" alt="Delphi" width="40" height="40"/>
 </div>
 
 ---
