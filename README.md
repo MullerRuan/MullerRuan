@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Como me Encontrar
-- **LinkedIn**: [https://www.linkedin.com/in/MullerRuan/]
+- **LinkedIn**: [https://www.linkedin.com/in/ruan-muller1910/]
 - **E-mail**: ruandagostini17@gmail.com
 
 ---
